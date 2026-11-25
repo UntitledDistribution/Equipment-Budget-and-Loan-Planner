@@ -16,6 +16,14 @@ python.exe -m pip install XYZ
 ```
 pip.exe install XYZ
 ```
+### The following packages are installed:
+_Included my reasons for using them in the program_
+ - Pandas (3.1.1) - Data science tool to read and write CSV
+ - Matplotlib (3.11.2) - To display the visual summary screen
+ - Clear (2.0.0) - A python package to clear the screen within Python
+ - Readchar (4.2.2) - Quick single keystroke to switch between Menus
+ - Termcolor (3.3.0) - Customises output text.
+
 
 ## main.py
 _This is the main script you should execute either directly through Python, or you can use an IDE of your choice (I use VS Code), whatever is easiest for you._
