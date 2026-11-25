@@ -1,0 +1,7 @@
+Product,Condition,Stock,Loaned,LoanPeriod,Price
+Laptop,Good,10,3,7 days,120
+Camera,Poor,15,10,7 days,75
+Microphone,Working,15,14,7 days,10
+Raspberry Pi Kits,Okay,10,5,7 days,25
+Networking Kit,Working,5,2,7 days,50
+VR Headset,Excellent,5,1,7 days,350
